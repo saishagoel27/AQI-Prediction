@@ -144,4 +144,4 @@ This project demonstrates:
 
 ---
 
-*This project serves as both a practical implementation of machine learning for environmental data and an educational resource for those interested in applying data science to climate and
+*This project serves as both a practical implementation of machine learning for environmental data and an educational resource for those interested in applying data science to climate and monitoring*
